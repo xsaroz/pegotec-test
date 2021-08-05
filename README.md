@@ -1,6 +1,7 @@
 ## Installation
 ```
 - Clone project to your local
+- set mysql username and password as required
 - go to project folder
 - composer install
 - php artisan migrate
